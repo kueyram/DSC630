@@ -20,8 +20,8 @@ The project uses two datasets:
 2. **movies.csv**: Contains movie titles and genres.
 
 These datasets are loaded from the following links:
-- [Ratings Dataset](https://raw.githubusercontent.com/kueyram/DSC630/main/Data/ratings.csv)
-- [Movies Dataset](https://raw.githubusercontent.com/kueyram/DSC630/main/Data/movies.csv)
+- [Ratings Dataset](https://raw.githubusercontent.com/kueyram/Movie-Recommender-System/refs/heads/main/Data/ratings.csv)
+- [Movies Dataset](https://raw.githubusercontent.com/kueyram/Movie-Recommender-System/refs/heads/main/Data/movies.csv)
 
 ## How It Works
 1. The code loads the datasets into Pandas DataFrames.
