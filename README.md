@@ -34,12 +34,15 @@ These datasets are loaded from the following links:
 ## How to Run
 1. Make sure you have Python installed on your machine.
 2. Install the required libraries:
+```bash
    pip install pandas numpy
-3. python movie_recommender.py
+4. Run the code
+```
+```bash
+ python movie_recommender.py
+```
 
-Example
+## Example
 
 To get recommendations, you can enter a movie title, such as "Forrest Gump (1994)," and specify the number of movies you'd like to receive as recommendations.
 Contributing
-
-If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
