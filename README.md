@@ -46,4 +46,3 @@ These datasets are loaded from the following links:
 ## Example
 
 To get recommendations, you can enter a movie title, such as "Forrest Gump (1994)," and specify the number of movies you'd like to receive as recommendations.
-Contributing
