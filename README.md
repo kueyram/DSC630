@@ -36,8 +36,9 @@ These datasets are loaded from the following links:
 2. Install the required libraries:
 ```bash
    pip install pandas numpy
-4. Run the code
 ```
+4. Run the code
+
 ```bash
  python movie_recommender.py
 ```
